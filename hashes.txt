@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos robados al tiempo
+
+This log tracks the cryptographic history and versioning for the song **Besos robados al tiempo** (besos-robados-al-tiempo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:35:17.500210 | `v1` | `b468bc788933e5cc8bd6c539c54a438df770b8a98f353f3a307af7e2cffc0968` | `eed25de85467c6fc1e228745be56984ac8afaf049c6bbc110a83c4d955fbfa91` | `2026-06-18_besos-robados-al-tiempo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

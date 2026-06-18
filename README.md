@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-robados-al-tiempo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Besos robados al tiempo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-robados-al-tiempo/) |
+| **Get License** | [Request Licensing for Besos robados al tiempo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-robados-al-tiempo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b468bc788933e5cc8bd6c539c54a438df770b8a98f353f3a307af7e2cffc0968` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

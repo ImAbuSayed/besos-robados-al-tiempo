@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-robados-al-tiempo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Besos robados al tiempo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-robados-al-tiempo/) |
+| **Get License** | [Music Rights & Licensing for Besos robados al tiempo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-robados-al-tiempo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la ciudad se apaga pero tú y yo brillamos más
+> Tus ojos me dicen secretos que sé que no olvidarás
+> Un juego de sombras, calor y deseo que nunca se va
+> Baby, el destino lo escribes conmigo en la oscuridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
